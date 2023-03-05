@@ -24,7 +24,7 @@ export default function Index() {
             </Head>
             <main className="bg-white min-h-screen w-screen md:flex md:justify-center md:items-center
               md:mx-auto">
-                <article className="md:min-h-full md:rounded-3xl  min-h-screen shadow-xl flex flex-col md:flex-row g-3 ">
+                <article className="md:min-h-full md:rounded-3xl  md:max-w-screen-sm min-h-screen shadow-xl flex flex-col md:flex-row g-3 ">
                     <div className="md:flex-initial md:w-5/12  text-white rounded-b-3xl flex gap-2  md:rounded-3xl flex-col items-center justify-center p-5 md:items-center bg-div">
                         <h3 className="flex-initial">Your result</h3>
                         <p className="flex flex-col items-center text-center justify-center gap-1 rounded-full w-32 h-32 bg-circle shadow-lg">
